@@ -18,3 +18,6 @@ My Champions League Dictionary App lets users view, add, and delete teams, compa
 - Record the same stats for every team so the power rankings are more balanced.
 - Save changes to a file so added and deleted teams stay updated after the program closes.
 - Make team searches work regardless of capitalization.
+
+
+Created by Ojas Gupta - https://github.com/ogupta-droid
